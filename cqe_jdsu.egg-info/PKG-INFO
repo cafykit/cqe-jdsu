@@ -1,0 +1,28 @@
+Metadata-Version: 1.1
+Name: cqe-jdsu
+Version: 0.0.1
+Summary: JDSU OntRemote Libraries. Content is copyright of VIAVI Solutions IncThis is just a pip version of the same
+Home-page: http://packages.python.org/cqe-jdsu
+Author: Manali Gupta
+Author-email: manligup@cisco.com
+License: BSD
+Description: ################################################################################
+        #                                                                              #
+        #   ontRemote.py                                                              #
+        #                                                                              #
+        #   Python interface to the new line of JDSU products                          #
+        #                                                                              #
+        #   Copyright (c) 2015 - 2019, VIAVI Solutions Inc.                             #
+        #                                                                              #
+        #   The contents of this file should not be copied or distributed              #
+        #   without permission being granted by VIAVI Solutions Inc.                   #
+        #                                                                              #
+        #   All rights reserved.                                                       #
+        #                                                                              #
+        ################################################################################
+        
+Keywords: JDSU OntRemote Five-g
+Platform: UNKNOWN
+Classifier: Development Status :: 3 - Alpha
+Classifier: Topic :: Utilities
+Classifier: License :: OSI Approved :: BSD License
