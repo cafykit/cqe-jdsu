@@ -1,4 +1,4 @@
-import OntRemote
+from jdsu import OntRemote
 
 class Phys:
     def __init__(self, mp):
